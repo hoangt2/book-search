@@ -7,7 +7,7 @@ const App = () => {
 	return (
 		<>
 			<Box height='100vh' maxWidth='100vw' maxHeight='100vh' overflow='hidden'>
-				<Heading align='center' as='h1' fontSize='5xl' mt='10rem'>
+				<Heading as='h1' fontSize='5xl' mt='10rem'>
 					Book Search
 				</Heading>
 
